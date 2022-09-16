@@ -1,4 +1,4 @@
-## Oiii eu sou o Marcos, desenvolvedor criador de conteúdo de programação e tecnologia!
+## Olá, eu sou o Marcos, desenvolvedor e criador de conteúdo de programação e tecnologia!
 <div align="center">
   <a href="https://github.com/mmalbr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mmalbr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

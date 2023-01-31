@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B3B17&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11251d&height=120&section=header"/>
 
 ## Olá, eu sou o Marcos, desenvolvedor e criador de conteúdo de programação e tecnologia!
 <div align="center">
@@ -38,3 +38,4 @@
   ![Snake animation](https://github.com/mmalbr/mmalbr/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=11251d&height=120&section=footer"/>

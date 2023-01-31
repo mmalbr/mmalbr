@@ -12,6 +12,14 @@
   <img align="center" alt="MMALBR-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="MMALBR-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="MMALBR-Android" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg">
+  <img align="center" alt="MMALBR-AndroidStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg">
+  <img align="center" alt="MMALBR-Apache" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-plain.svg">
+  <img align="center" alt="MMALBR-Dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain.svg">
+ <img align="center" alt="MMALBR-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
+ <img align="center" alt="MMALBR-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg">
+ <img align="center" alt="MMALBR-Mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+ <img align="center" alt="MMALBR-Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-plain.svg">
+ <img align="center" alt="MMALBR-Wordpress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="MMALBR-Php" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   </div>
   

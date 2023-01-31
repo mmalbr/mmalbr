@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=088A08&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088A08&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcos;Sou+desenvolvedor+e+criador+de+conteúdo+de+programação+e+tecnologia!;Tenho+47+anos+de+idade+e+cerca+de+25+anos+na+área+de+TI;+Graduado+em+Banco+de+Dados+e+Docente+Pedagogo;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088A08&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcos;Sou+dev.+e+criador+de+conteúdo+de+programação+e+TI!;Tenho+47+anos+de+idade...;...e+cerca+de+25+anos+na+área+de+TI;+Graduado+em+DBA+e+Docente+Pedagogo;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
   <a href="https://github.com/mmalbr">

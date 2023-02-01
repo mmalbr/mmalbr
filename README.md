@@ -4,9 +4,6 @@
 </div>
 
 
-![](https://media.discordapp.net/attachments/1067553244156538942/1070160804403478711/marcos.gif)
-
-
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088A08&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcos;Sou+dev.+e+criador+de+conteúdo+de+programação+e+TI!;Tenho+47+anos+de+idade...;...e+cerca+de+25+anos+na+área+de+TI;+Graduado+em+DBA+e+Docente+Pedagogo;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 

@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=088A08&height=120&section=header"/>
+<div align="center">
+    <img align="center" alt="Mmalbr-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"/>
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=088A08&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Marcos;Sou+dev.+e+criador+de+conteúdo+de+programação+e+TI!;Tenho+47+anos+de+idade...;...e+cerca+de+25+anos+na+área+de+TI;+Graduado+em+DBA+e+Docente+Pedagogo;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 

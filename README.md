@@ -36,6 +36,10 @@
 ![snake gif](https://github.com/mmalbr/mmalbr/blob/output/github-contribution-grid-snake.svg)
 
 
+- 👤 ICQ (Alguem ainda usa?): https://icq.im/696246141
+
+Só não garanto que eu vou responder! ;)
+
   <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mmalbr}/count.svg" /></p> 

@@ -38,6 +38,9 @@
 
 ![snake gif](https://github.com/mmalbr/mmalbr/blob/output/github-contribution-grid-snake.svg)
 
+- Quer me pagar um café?
+https://www.buymeacoffee.com/mmalbr
+
 
 - 👤 ICQ (Alguem ainda usa?): https://icq.im/135094550
 

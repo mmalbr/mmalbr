@@ -8,7 +8,15 @@
 ##
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mmalbr&bg_color=000000&color=27593a&line=127834&point=00f51d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h2 align='center'><i><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">Activity Graph 📈</i></h2>
+<p align="center">
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-light-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmalbr&theme=github-compact&area=true&hide_border=true#gh-light-mode-only" width="100%">
+</a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph#gh-dark-mode-only">
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=mmalbr&theme=github-compact&area=true&hide_border=true#gh-dark-mode-only" width="100%">
+</a>
+</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mmalbr&show_icons=true&count_private=true&hide_border=true&title_color=088A08&icon_color=088A08&text_color=c9d1d9&bg_color=0d1117" alt="Marcos Mendes github stats" /> 

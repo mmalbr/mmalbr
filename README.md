@@ -40,9 +40,9 @@
 https://www.buymeacoffee.com/mmalbr
 
 
-- 👤 ICQ (Alguem ainda usa?): https://icq.im/135094550
+- 👤 ICQ: https://icq.im/135094550 -RIP - :(
 
-Só não garanto que eu vou responder! ;)
+
 
  
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=088A08&height=120&section=footer"/>
